@@ -7937,6 +7937,7 @@
 				);
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				SWIFT_COMPILATION_MODE = wholemodule;
 			};
 			name = Release;
 		};
